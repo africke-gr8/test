@@ -1,3 +1,5 @@
-notarealdomain.gr8peoplecorp.com
-anotherfakedomain.gr8peoplecorp.com
-athirdfakedomain.gr8peoplecorp.com
+notarealdomain.gr8people.com
+anotherfakedomain.gr8people.com
+athirdfakedomain.gr8people.com
+*.mehdomain.gr8people.com
+
